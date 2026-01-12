@@ -1,4 +1,5 @@
 📈 Sales Forecasting using Machine Learning
+
 📌 Project Overview
 
 Sales Forecasting is a data science project that aims to predict future sales based on historical sales data. Accurate sales forecasting helps businesses make informed decisions related to inventory management, demand planning, budgeting, and revenue optimization.
